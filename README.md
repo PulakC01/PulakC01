@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=2nd+Year+Engineering+Student;Self-taught+aspiring+Developer;Programming+is+my+fuel")></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&lines=2nd+Year+Engineering+Student;Self-taught+aspiring+Developer;Programming+is+my+fuel")></a>
 </p>
 
