@@ -21,14 +21,15 @@ Here are some ideas to get you started:
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&lines=2nd+Year+Engineering+Student;Self-taught+aspiring+Developer;Programming+is+my+fuel")></a>
 </p>
 
-<div align="center">
+<!--<div align="center">
   [![Gmail Badge](https://imgur.com/gallery/4lw0nf1?nc=1)](mailto:pulak.chowdhury0@gmail.com)
   [![Linkedin Badge](https://imgur.com/t/icon/OQUXwNp)](https://www.linkedin.com/in/pulak-chowdhury-5b3681205/)
   [![Insta Badge](https://imgur.com/gallery/EtM1AKs)](https://instagram.com/_pulak_.ch/)
 </div>
- 
+-->
  <br>
-- 🔭 I’m currently working Data Stuctres and Algorithms
+ 
+- 🔭 I’m currently working Data Stuctres and Algorithms<br>
 - 🌱 I’m currently learning Web Development
 - 👯 I’m looking to land an internship
 - 💬 Ask me about Anime and Manga
