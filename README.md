@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/pulak-chowdhury-5b3681205/"><img width="32px" alt="LinkedIn" title="LinkedIn"        src="https://image.flaticon.com/icons/png/512/174/174857.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://instagram.com/_pulak_.ch/" alt="Instagram"><img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/2048px-Instagram.svg.png"/></a>
-  <a href="https://www.hackerrank.com/pulak_chowdhury0"><img src="https://icons-for-free.com/iconfiles/png/512/codechef-1324440139527402917.png" width="32px" ></a>
+  <a href="https://www.hackerrank.com/pulak_chowdhury0"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="35" height="35" ></a>
 </p>
 
  <br>
