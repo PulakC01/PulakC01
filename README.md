@@ -24,14 +24,15 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="mailto:pulak.chowdhury0@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="https://i.imgur.com/8UNVyGK.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/pulak-chowdhury-5b3681205/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/OQUXwNp.jpg"/></a>
+  <a href="https://www.linkedin.com/in/pulak-chowdhury-5b3681205/"><img width="32px" alt="LinkedIn" title="LinkedIn"        src="https://image.flaticon.com/icons/png/512/174/174857.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://instagram.com/_pulak_.ch/" alt="Instagram"><img width="32px" src="https://i.imgur.com/rcPkXtU.png"/></a>
+  <a href="https://instagram.com/_pulak_.ch/" alt="Instagram"><img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/2048px-Instagram.svg.png"/></a>
+  <a href="https://www.hackerrank.com/pulak_chowdhury0"><img src="https://icons-for-free.com/iconfiles/png/512/codechef-1324440139527402917.png" width="32px" ></a>
 </p>
 
  <br>
  
-- 🔭 I’m currently working Data Stuctres and Algorithms<br>
+- 🔭 I’m currently working on Data Stuctres and Algorithms<br>
 - 🌱 I’m currently learning Web Development
 - 👯 I’m looking to land an internship
 - 💬 Ask me about Anime and Manga
