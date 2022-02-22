@@ -30,6 +30,10 @@ Here are some ideas to get you started:
   <a href="https://www.hackerrank.com/pulak_chowdhury0"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="35" height="35" ></a>
 </p>
 
+<p align = 'center'>
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PulakC01&theme=monokai&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+</p>
+
  <br>
  
 - 🔭 I’m currently working on Data Stuctres and Algorithms<br>
