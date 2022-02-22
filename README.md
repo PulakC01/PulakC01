@@ -31,7 +31,9 @@ Here are some ideas to get you started:
 </p>
 
 <p align = 'center'>
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PulakC01&theme=monokai&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img alt="Pulaks's streak" src="http://github-readme-streak-stats.herokuapp.com?user=PulakC01&theme=monokai&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+  </a>
 </p>
 
  <br>
