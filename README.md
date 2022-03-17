@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 <p align = 'center'>
   <a href = "https://github.com/PulakC01"> <img alt="Pulaks's streak" src="http://github-readme-streak-stats.herokuapp.com?user=PulakC01&theme=monokai&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
   </a>
+  
 </p>
 
  <br>
