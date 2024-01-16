@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&lines=3rd+Year+Engineering+Student;Self-taught+aspiring+Developer;Programming+is+my+fuel")>
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&lines=Final+Year+Engineering+Student;Self-taught+aspiring+Developer;Programming+is+my+fuel")>
 </p>
 
 <p align="center">
@@ -32,8 +32,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align = 'center'>
-  <a href = "https://github.com/PulakC01"> <img alt="Pulaks's streak" src="http://github-readme-streak-stats.herokuapp.com?user=PulakC01&theme=monokai&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
-  </a>
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=PulakC01" alt="GitHub Streak" /> </a>
   
 </p>
 
