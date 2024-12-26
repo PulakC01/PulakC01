@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&lines=Final+Year+Engineering+Student;Self-taught+aspiring+Developer;Programming+is+my+fuel")>
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&lines=Self-taught+aspiring+Developer;Programming+is+my+fuel")>
 </p>
 
 <p align="center">
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 </p>
 
  <br>
- 
+ <!--
 - 🔭 I’m currently working on Data Stuctres and Algorithms<br>
 - 🌱 I’m currently learning Cyber Security
 - 👯 I’m looking to land an internship
@@ -45,6 +45,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 </br>
 
+<!--
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming languages
@@ -82,4 +83,4 @@ Here are some ideas to get you started:
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-ad78f7.svg?logo=visual-studio-code&logoColor=white"></a>
     <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
     <img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
-  
+    -->
